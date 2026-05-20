@@ -1,5 +1,8 @@
 # Fake-New-2026
 
+
+
+
 Fake news  by Avinash-2026
 Step 1 — make sure python version and virt envs are set
 cd /path/to/fake_news
