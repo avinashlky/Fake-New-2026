@@ -30,5 +30,9 @@ python train_model.py
 
 After success, run:
 ls
+and the data set can be docwloaded from below URL,
+
+https://www.kaggle.com/datasets/bhavikjikadara/fake-news-detection/data
+
 
 any issues reach me on 9900225993
